@@ -12,7 +12,7 @@ export default function Footer() {
 
                 <div>
                     <span>
-                        ©2025 TaskBothy. All rights reserved.
+                        ©2026 TaskBothy. All rights reserved.
                     </span>
                 </div>
             </div>
